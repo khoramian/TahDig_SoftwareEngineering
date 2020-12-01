@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T14:04:27.958Z" agent="5.0 (Windows)" etag="jz3f4rFBEuKDsFVRZkUr" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T14:06:10.430Z" agent="5.0 (Windows)" etag="389gJP01EM_1B0VMtGrK" version="13.10.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -47,13 +47,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-10" value="انتخاب از منوی رستوران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="430" y="151.5" width="110" height="68.5" as="geometry" />
+          <mxGeometry x="420" y="157.25" width="110" height="68.5" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-11" value="مشاهده امتیاز رستوران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="435" y="216" width="105" height="67" as="geometry" />
+          <mxGeometry x="430" y="216" width="105" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-12" value="ثبت سفارش" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="435" y="267" width="100" height="63" as="geometry" />
+          <mxGeometry x="427.5" y="267" width="100" height="63" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-13" value="انتخاب نحوه پرداخت" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="430" y="320" width="100" height="63" as="geometry" />
@@ -61,8 +61,23 @@
         <mxCell id="oFaBCXIpXnut_KhmdDa9-14" value="&lt;div&gt;نمایان/ پنهان کردن &lt;br&gt;&lt;/div&gt;&lt;div&gt;امتیاز نیکوکاری&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="100" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-15" value="اعمال تخفیف و پیشنهاد ویژه" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="435" y="420" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-16" value="نظرسنجی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="435" y="480" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-17" value="مشاهده موجودی مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="435" y="530" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-18" value="شارژ حساب مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="580" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-19" value="انتقادات و پیشنهادات" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="153" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-20" value="sign out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="213" width="95" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
