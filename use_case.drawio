@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T14:06:10.430Z" agent="5.0 (Windows)" etag="389gJP01EM_1B0VMtGrK" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T14:07:57.992Z" agent="5.0 (Windows)" etag="8dtGrwhbMIihgTPUCC80" version="13.10.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -28,8 +28,8 @@
         <mxCell id="oFaBCXIpXnut_KhmdDa9-2" value="&lt;br&gt;حذف از لیست علاقه مندی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="315" y="355" width="105" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-3" value="مشاهدع سابقه خرید" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="310" y="420" width="120" height="80" as="geometry" />
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-3" value="مشاهده سابقه خرید" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="413" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-5" value="اتحادیه صنفی" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="450" width="120" height="60" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="860" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-7" value="مشاهده لیست رستوران ها" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="310" y="490" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="480" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-8" value="مشاهده اطلاعات رستوران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="310" y="560" width="120" height="80" as="geometry" />
+          <mxGeometry x="305" y="550" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oFaBCXIpXnut_KhmdDa9-7" target="oFaBCXIpXnut_KhmdDa9-7">
           <mxGeometry relative="1" as="geometry" />
@@ -67,10 +67,10 @@
         <mxCell id="oFaBCXIpXnut_KhmdDa9-16" value="نظرسنجی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="435" y="480" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-17" value="مشاهده موجودی مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-17" value="مشاهده موجودی کیف پول" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="435" y="530" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-18" value="شارژ حساب مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-18" value="شارژ کیف پول" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="432.5" y="580" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-19" value="انتقادات و پیشنهادات" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -78,6 +78,18 @@
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-20" value="sign out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="540" y="213" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-21" value="جستجو" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="537" y="263.5" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-22" value="راهنمای کاربر" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="537" y="320" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-23" value="مکان یابی رستوران ها" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="383" width="95" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-24" value="مشاهده تخفیف و پیشنهاد ویژه" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="537" y="433" width="95" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
