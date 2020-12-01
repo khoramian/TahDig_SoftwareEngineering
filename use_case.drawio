@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T14:09:10.281Z" agent="5.0 (Windows)" etag="9SSyqi8DB5wdy27fms9V" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T14:12:18.440Z" agent="5.0 (Windows)" etag="8FqTRF3mjJpOFwGrnc_8" version="13.10.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="rXxGUh9YkXs_mze31AUG-5" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="860" y="340" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jm9gUiOZweeL1IYtcXkK-2" value="ورود به نرم افزار" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="Jm9gUiOZweeL1IYtcXkK-2" value="log in" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="290" y="223" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-1" value="افزودن به لیست علاقه مندی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -91,8 +91,44 @@
         <mxCell id="oFaBCXIpXnut_KhmdDa9-24" value="مشاهده تخفیف و پیشنهاد ویژه" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="590" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-25" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-25" value="ثبت نام" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="441" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-26" value="فعالسازی حساب کاربری" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="493" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-27" value="راهنمای کاربر" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="541.5" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-28" value="log in" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="495" y="590" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-29" value="مشاهده نظرات کاربران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-30" value="نمایش میزان فروش" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="203.5" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-31" value="تنظیم نمایه فروش" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-32" value="تنظیم منوی مرجع" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="317" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-33" value="تنظیم منوی روزانه" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="371" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-34" value="یادآوری زمان فروش" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="597" y="423" width="95" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-35" value="مشاهده حساب مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="597" y="475" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-36" value="برداشت از حساب مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="597" y="530" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-37" value="برداشت از حساب مالی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="595" y="580" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
