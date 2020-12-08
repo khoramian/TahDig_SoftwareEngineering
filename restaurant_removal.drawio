@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T07:32:00.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z2yGrBnnPkeXkErn50QR" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T07:33:39.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8V9JL-NkLlx24ZaJjeDi" version="13.10.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1727" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,8 +89,8 @@
             <mxPoint x="1315.8" y="464" as="sourcePoint" />
             <mxPoint x="1110" y="497" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1110" y="500" />
-              <mxPoint x="559" y="500" />
+              <mxPoint x="1110" y="490" />
+              <mxPoint x="559" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -98,7 +98,7 @@
           <mxGeometry x="1230.98" y="510" width="177.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aYaNbTCwkLzp46-Q-Bmp-198" value="&lt;span style=&quot;font-size: 19px&quot;&gt;فسخ قرارداد&lt;/span&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="470" y="525" width="177.75" height="60" as="geometry" />
+          <mxGeometry x="470" y="510" width="177.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aYaNbTCwkLzp46-Q-Bmp-199" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#000000;strokeColor=none;fontSize=16;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="930" y="112.5" width="5" height="1020" as="geometry" />
