@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T08:12:41.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="C-GWmt3GR0tsJ_4TSfWw" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T08:19:16.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Bc6s3fPJtv-qwQSNP0or" version="13.10.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,9 +42,6 @@
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-25" value="ثبت نام" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350.63" y="257" width="95" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-55" value="log out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="525" y="470" width="95" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-83" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rXxGUh9YkXs_mze31AUG-5" target="oFaBCXIpXnut_KhmdDa9-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -278,12 +275,12 @@
         <mxCell id="oFaBCXIpXnut_KhmdDa9-54" value="مدیریت رستوران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="680" y="257" width="110" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-4" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="oFaBCXIpXnut_KhmdDa9-55" edge="1">
+        <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-4" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.008;entryY=0.649;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Ropvw_bmy95mcoHRvxeS-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255" y="555" as="sourcePoint" />
-            <mxPoint x="519.9999999999882" y="498.5" as="targetPoint" />
+            <mxPoint x="525" y="498.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="255" y="499" />
+              <mxPoint x="255" y="494" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -293,12 +290,12 @@
         <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-6" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="LZOqlYVMBqQ8iP9V0Yqu-4" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-7" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="oFaBCXIpXnut_KhmdDa9-55" edge="1">
+        <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-7" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.008;exitY=0.353;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Ropvw_bmy95mcoHRvxeS-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="533.1034482758864" y="478.8448275862211" as="sourcePoint" />
+            <mxPoint x="538.7931126067092" y="478.41930112740124" as="sourcePoint" />
             <mxPoint x="255" y="363" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="255" y="478" />
+              <mxPoint x="255" y="477" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -346,6 +343,9 @@
         </mxCell>
         <mxCell id="Ropvw_bmy95mcoHRvxeS-3" value="جستجو" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="419.13" y="580" width="93.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ropvw_bmy95mcoHRvxeS-4" value="log out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="496" y="457" width="95" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
