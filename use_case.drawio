@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T13:18:24.259Z" agent="5.0 (Windows)" etag="dhATVsnRF0bP70NJFCzR" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-08T13:19:30.994Z" agent="5.0 (Windows)" etag="2TMSn-lMPURN9u_bWXO3" version="13.10.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="rXxGUh9YkXs_mze31AUG-5" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#d6b656;fillColor=#FFCE9F;" parent="1" vertex="1">
           <mxGeometry x="911" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jm9gUiOZweeL1IYtcXkK-2" value="log in" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Jm9gUiOZweeL1IYtcXkK-2" value="log in" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350.63" y="180" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-3" value="مشاهده سابقه خرید" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-3" value="مشاهده سابقه خرید" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="416" y="739" width="100" height="67" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-5" value="اتحادیه صنفی" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
@@ -28,16 +28,16 @@
         <mxCell id="oFaBCXIpXnut_KhmdDa9-6" value="اداره بهداشت" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="911" y="540" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-7" value="مشاهده لیست رستوران ها" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;gradientColor=#b3b3b3;" parent="1" vertex="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-7" value="مشاهده لیست رستوران ها" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="588.5" y="656" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oFaBCXIpXnut_KhmdDa9-7" target="oFaBCXIpXnut_KhmdDa9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-20" value="sign out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-20" value="sign out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="350.63" y="800" width="98.38" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-25" value="ثبت نام" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-25" value="ثبت نام" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350.63" y="257" width="95" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-83" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rXxGUh9YkXs_mze31AUG-5" target="oFaBCXIpXnut_KhmdDa9-54" edge="1">
@@ -263,7 +263,7 @@
             <mxPoint x="445.6300000000001" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oFaBCXIpXnut_KhmdDa9-16" value="نظرسنجی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="oFaBCXIpXnut_KhmdDa9-16" value="نظرسنجی" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="498.5" y="620" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oFaBCXIpXnut_KhmdDa9-54" value="مدیریت رستوران ها" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1" parent="1" vertex="1">
@@ -299,7 +299,7 @@
         <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-9" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="LZOqlYVMBqQ8iP9V0Yqu-7" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-12" value="ثبت نام" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="LZOqlYVMBqQ8iP9V0Yqu-12" value="ثبت نام" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="351.62" y="523" width="103.75" height="63" as="geometry" />
         </mxCell>
         <mxCell id="VYPXpgVH3DA66YAYNXMS-15" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ti_cdP-LwR2GLxK3Q5Qu-43" target="LZOqlYVMBqQ8iP9V0Yqu-12" edge="1">
@@ -329,19 +329,19 @@
         <mxCell id="VYPXpgVH3DA66YAYNXMS-20" value="*" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" parent="VYPXpgVH3DA66YAYNXMS-18" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ropvw_bmy95mcoHRvxeS-1" value="مدیریت غذا" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ropvw_bmy95mcoHRvxeS-1" value="مدیریت غذا" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="351.62" y="330" width="95" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Ropvw_bmy95mcoHRvxeS-2" value="حذف رستوران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ropvw_bmy95mcoHRvxeS-2" value="حذف رستوران" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="350.63" y="400" width="95" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Ropvw_bmy95mcoHRvxeS-3" value="جستجو" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ropvw_bmy95mcoHRvxeS-3" value="جستجو" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="419.13" y="580" width="93.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ropvw_bmy95mcoHRvxeS-4" value="log out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ropvw_bmy95mcoHRvxeS-4" value="log out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="496" y="457" width="95" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="Ropvw_bmy95mcoHRvxeS-6" value="سفارش غذا" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Ropvw_bmy95mcoHRvxeS-6" value="سفارش غذا" style="ellipse;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="506.5" y="698" width="90" height="67" as="geometry" />
         </mxCell>
       </root>
