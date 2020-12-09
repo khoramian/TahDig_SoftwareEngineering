@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:21:02.570Z" agent="5.0 (Windows)" etag="GJ8Z1mwOtlnfINpQ9gsb" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:21:27.053Z" agent="5.0 (Windows)" etag="zEEWxqiI6_vFCHht76g6" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="572" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
             <mxPoint x="1307.25" y="-370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q7M6jUGMCmDY0D8WpHAc-20" value="&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;رد کردن&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="q7M6jUGMCmDY0D8WpHAc-19" vertex="1" connectable="0">
+        <mxCell id="q7M6jUGMCmDY0D8WpHAc-20" value="[&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;رد کردن]&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" parent="q7M6jUGMCmDY0D8WpHAc-19" vertex="1" connectable="0">
           <mxGeometry x="-0.43" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AogosZ2vTw-X-9OIK1Cw-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;تایید و ادامه &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AogosZ2vTw-X-9OIK1Cw-2">
+        <mxCell id="AogosZ2vTw-X-9OIK1Cw-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;[تایید و ادامه ]&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AogosZ2vTw-X-9OIK1Cw-2">
           <mxGeometry x="-0.6182" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
