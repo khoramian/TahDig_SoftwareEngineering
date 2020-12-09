@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T15:20:55.156Z" agent="5.0 (Windows)" etag="_XaPGDFYXaz8JsZ9jkc-" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:21:02.570Z" agent="5.0 (Windows)" etag="GJ8Z1mwOtlnfINpQ9gsb" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="956" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="q7M6jUGMCmDY0D8WpHAc-9" value="نمایش پیام موفقیت امیز بستن حساب کاربری" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="990" y="-570" width="174" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="q7M6jUGMCmDY0D8WpHAc-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AogosZ2vTw-X-9OIK1Cw-1" target="q7M6jUGMCmDY0D8WpHAc-9" edge="1">
+        <mxCell id="q7M6jUGMCmDY0D8WpHAc-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="AogosZ2vTw-X-9OIK1Cw-1" target="q7M6jUGMCmDY0D8WpHAc-9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1080.04" y="-717.97" as="sourcePoint" />
             <mxPoint x="1350" y="-690" as="targetPoint" />
@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AogosZ2vTw-X-9OIK1Cw-1" value="&amp;nbsp;بستن حساب کاربری" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-690" width="174" height="70" as="geometry" />
+          <mxGeometry x="990" y="-690" width="174" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AogosZ2vTw-X-9OIK1Cw-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7M6jUGMCmDY0D8WpHAc-21" target="AogosZ2vTw-X-9OIK1Cw-1">
           <mxGeometry width="160" relative="1" as="geometry">
