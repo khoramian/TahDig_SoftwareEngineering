@@ -1,91 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:20:07.836Z" agent="5.0 (Windows)" etag="Qad9W24SY6_JungStsYn" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:25:21.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vtVRiOiPy1mI1FE69Get" version="14.0.0" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-1" value="" style="ellipse;fillColor=#000000;strokeColor=none;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="380" y="10" width="30" height="30" as="geometry" />
+        <mxCell id="3Z6YwCyN4GRcFS-cF_xn-5" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="70" width="470" height="1130" as="geometry" />
         </mxCell>
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-1" target="fQumDwOXY34OFx4Cvdbp-3" edge="1">
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-1" value="" style="ellipse;fillColor=#000000;strokeColor=none;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-1" target="fQumDwOXY34OFx4Cvdbp-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="270" as="sourcePoint" />
-            <mxPoint x="395" y="70" as="targetPoint" />
+            <mxPoint x="-245" y="390" as="sourcePoint" />
+            <mxPoint x="-190" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="160" />
+              <mxPoint x="-190" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-3" value="کلیک بر روی دکمه ثبت نام" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="70" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="190" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-3" target="fQumDwOXY34OFx4Cvdbp-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="395" y="130" as="sourcePoint" />
-            <mxPoint x="395" y="160" as="targetPoint" />
+            <mxPoint x="-190" y="250" as="sourcePoint" />
+            <mxPoint x="-190" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-5" value="باز شدن صفحه ثبت نام" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="140" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="260" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-5" target="fQumDwOXY34OFx4Cvdbp-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="200" as="sourcePoint" />
-            <mxPoint x="395" y="220" as="targetPoint" />
+            <mxPoint x="-235" y="320" as="sourcePoint" />
+            <mxPoint x="-190" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-7" value="وارد کردن نام کاربری و رمز عبور" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="210" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="330" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-8" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-7" target="fQumDwOXY34OFx4Cvdbp-9" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="395" y="290" as="sourcePoint" />
-            <mxPoint x="395" y="320" as="targetPoint" />
+            <mxPoint x="-190" y="410" as="sourcePoint" />
+            <mxPoint x="-190" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-9" value="وارد کردن نام وتلفن و ادرس و ادرس اینترنتی (اختیاری) رستوران" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="313.75" y="280" width="156.25" height="60" as="geometry" />
+          <mxGeometry x="-271.25" y="400" width="156.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-9" target="fQumDwOXY34OFx4Cvdbp-11" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="387.5" y="350" as="sourcePoint" />
-            <mxPoint x="387.5" y="380" as="targetPoint" />
+            <mxPoint x="-197.5" y="470" as="sourcePoint" />
+            <mxPoint x="-197.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-11" value="وارد کردن شهر رستوران" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="360" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="480" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-11" target="fQumDwOXY34OFx4Cvdbp-13" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="395" y="410" as="sourcePoint" />
-            <mxPoint x="387.5" y="460" as="targetPoint" />
+            <mxPoint x="-190" y="530" as="sourcePoint" />
+            <mxPoint x="-197.5" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-13" value="وارد کردن تلفن صاحب رستوران" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="430" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="550" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-13" target="fQumDwOXY34OFx4Cvdbp-15" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="391.25" y="480" as="sourcePoint" />
-            <mxPoint x="383.75" y="540" as="targetPoint" />
+            <mxPoint x="-193.75" y="600" as="sourcePoint" />
+            <mxPoint x="-201.25" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-15" value="ارسال تصویر تاییدیه وزارت بهداشت" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="500" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="620" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-16" value="" style="rhombus;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="358.44" y="570" width="73.12" height="50" as="geometry" />
+          <mxGeometry x="-226.55999999999995" y="690" width="73.12" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-17" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-15" target="fQumDwOXY34OFx4Cvdbp-16" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="630" as="sourcePoint" />
-            <mxPoint x="500" y="630" as="targetPoint" />
+            <mxPoint x="-245" y="750" as="sourcePoint" />
+            <mxPoint x="-85" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-18" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-16" target="fQumDwOXY34OFx4Cvdbp-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="60" y="530" as="sourcePoint" />
-            <mxPoint x="180" y="160" as="targetPoint" />
+            <mxPoint x="-525" y="650" as="sourcePoint" />
+            <mxPoint x="-405" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="595" />
-              <mxPoint x="180" y="160" />
+              <mxPoint x="-405" y="715" />
+              <mxPoint x="-405" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -96,8 +103,8 @@
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-16" target="fQumDwOXY34OFx4Cvdbp-21" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="391.88" y="640" as="sourcePoint" />
-            <mxPoint x="380.63" y="710" as="targetPoint" />
+            <mxPoint x="-193.12" y="760" as="sourcePoint" />
+            <mxPoint x="-204.37" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-22" value="[دریافت تایید احراز هویت]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-20" vertex="1" connectable="0">
@@ -106,15 +113,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-21" value="پایان ثبت نام اولیه" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="690" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="810" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-28" value="&#xa;&#xa;دریافت تایید صحت&#xa; اطلاعات رستوران&#xa;&#xa;" style="rhombus;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="310" y="770" width="170" height="80" as="geometry" />
+          <mxGeometry x="-275" y="890" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-28" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="395.78" y="850" as="sourcePoint" />
-            <mxPoint x="395" y="940" as="targetPoint" />
+            <mxPoint x="-189.22000000000003" y="970" as="sourcePoint" />
+            <mxPoint x="-190" y="1060" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -125,17 +132,17 @@
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-33" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-21" target="fQumDwOXY34OFx4Cvdbp-28" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="410" y="740" as="sourcePoint" />
-            <mxPoint x="400" y="770" as="targetPoint" />
+            <mxPoint x="-175" y="860" as="sourcePoint" />
+            <mxPoint x="-185" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fQumDwOXY34OFx4Cvdbp-28" target="fQumDwOXY34OFx4Cvdbp-21" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="120" y="860" as="sourcePoint" />
-            <mxPoint x="230" y="770" as="targetPoint" />
+            <mxPoint x="-465" y="980" as="sourcePoint" />
+            <mxPoint x="-355" y="890" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="230" y="810" />
-              <mxPoint x="230" y="710" />
+              <mxPoint x="-355" y="930" />
+              <mxPoint x="-355" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -145,16 +152,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="380" y="1020" width="30" height="30" as="geometry" />
+          <mxGeometry x="60" y="1270" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SYJpGWBFYSdh2bLVMire-1" value="نهایی شدن ثبت نام و اضافه شدن رستوران " style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="930" width="155" height="40" as="geometry" />
+          <mxGeometry x="-267.5" y="1050" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYJpGWBFYSdh2bLVMire-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SYJpGWBFYSdh2bLVMire-1" target="fQumDwOXY34OFx4Cvdbp-40" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="380" y="980" as="sourcePoint" />
-            <mxPoint x="380" y="1020" as="targetPoint" />
+            <mxPoint x="-205" y="1100" as="sourcePoint" />
+            <mxPoint x="-205" y="1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="1190" />
+              <mxPoint x="70" y="1190" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3Z6YwCyN4GRcFS-cF_xn-6" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 27px&quot;&gt;seller&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3Z6YwCyN4GRcFS-cF_xn-7" value="" style="whiteSpace=wrap;html=1;fillColor=none;imageWidth=24;" vertex="1" parent="1">
+          <mxGeometry x="161.5" y="70" width="508.5" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="3Z6YwCyN4GRcFS-cF_xn-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 27px&quot;&gt;admin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
