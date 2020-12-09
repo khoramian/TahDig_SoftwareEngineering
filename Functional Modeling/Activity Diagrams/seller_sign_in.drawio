@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T15:36:57.206Z" agent="5.0 (Windows)" etag="1MkjNMTbO-aOyotVsIIx" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:17:35.323Z" agent="5.0 (Windows)" etag="qXUKY-FGPzypVRoUbWOV" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-19" value="&lt;div&gt;خطا و ارسال نشدن پیام&lt;/div&gt;&lt;div&gt; تایید پس از مدت معین&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-18" vertex="1" connectable="0">
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-19" value="&lt;div&gt;[خطا و ارسال نشدن پیام&lt;/div&gt;&lt;div&gt; تایید پس از مدت معین]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-18" vertex="1" connectable="0">
           <mxGeometry x="-0.6686" y="1" relative="1" as="geometry">
             <mxPoint x="25.56" y="-1" as="offset" />
           </mxGeometry>
@@ -100,7 +100,7 @@
             <mxPoint x="380.63" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-22" value="دریافت کد تایید احراز هویت" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-20" vertex="1" connectable="0">
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-22" value="[دریافت کد تایید احراز هویت]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-20" vertex="1" connectable="0">
           <mxGeometry x="-0.4" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="9" as="offset" />
           </mxGeometry>
@@ -147,10 +147,10 @@
         <mxCell id="fQumDwOXY34OFx4Cvdbp-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="380" y="1020" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SYJpGWBFYSdh2bLVMire-1" value="نهایی شدن ثبت نام و اضافه شدن رستوران " style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="SYJpGWBFYSdh2bLVMire-1" value="نهایی شدن ثبت نام و اضافه شدن رستوران " style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="317.5" y="930" width="155" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SYJpGWBFYSdh2bLVMire-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SYJpGWBFYSdh2bLVMire-1" target="fQumDwOXY34OFx4Cvdbp-40">
+        <mxCell id="SYJpGWBFYSdh2bLVMire-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SYJpGWBFYSdh2bLVMire-1" target="fQumDwOXY34OFx4Cvdbp-40" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="380" y="980" as="sourcePoint" />
             <mxPoint x="380" y="1020" as="targetPoint" />
