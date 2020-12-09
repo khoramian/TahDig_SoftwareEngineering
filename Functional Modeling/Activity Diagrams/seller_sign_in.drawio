@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:40:28.511Z" agent="5.0 (Windows)" etag="m7x93MasrBn7F22ovLcr" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:41:15.227Z" agent="5.0 (Windows)" etag="noK4CNC3G0jjJBhqPpuP" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2272" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -232,6 +232,20 @@
             <Array as="points">
               <mxPoint x="-275" y="1020" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiCbDtiV-aUNA9fTxWZA-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=13;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fQumDwOXY34OFx4Cvdbp-28" target="fQumDwOXY34OFx4Cvdbp-40">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="1240" as="sourcePoint" />
+            <mxPoint x="240" y="1240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-170" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiCbDtiV-aUNA9fTxWZA-20" value="[خیر]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="NiCbDtiV-aUNA9fTxWZA-19">
+          <mxGeometry x="-0.7825" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
