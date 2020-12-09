@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:18:27.486Z" agent="5.0 (Windows)" etag="r3irFrqk9ilq04w8LlEB" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:20:07.836Z" agent="5.0 (Windows)" etag="Qad9W24SY6_JungStsYn" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-34" value="بله" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-31" vertex="1" connectable="0">
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-34" value="[بله]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-31" vertex="1" connectable="0">
           <mxGeometry x="-0.3989" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -139,9 +139,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-37" value="خیر" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-35" vertex="1" connectable="0">
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-37" value="[خیر]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-35" vertex="1" connectable="0">
           <mxGeometry x="0.0617" y="-1" relative="1" as="geometry">
-            <mxPoint x="39" y="62" as="offset" />
+            <mxPoint x="40" y="62" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fQumDwOXY34OFx4Cvdbp-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
