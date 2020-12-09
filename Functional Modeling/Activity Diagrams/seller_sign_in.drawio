@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:28:34.046Z" agent="5.0 (Windows)" etag="VFEcQrWJB9a13xSKfy8q" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:29:47.750Z" agent="5.0 (Windows)" etag="p-c525Fpqf8V4pWLWB8l" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2272" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -158,6 +158,24 @@
         </mxCell>
         <mxCell id="3Z6YwCyN4GRcFS-cF_xn-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 27px&quot;&gt;admin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NiCbDtiV-aUNA9fTxWZA-2" value="صحت سنجی" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="910" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NiCbDtiV-aUNA9fTxWZA-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.54;exitY=0.986;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fQumDwOXY34OFx4Cvdbp-21" target="NiCbDtiV-aUNA9fTxWZA-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="310" y="880" as="sourcePoint" />
+            <mxPoint x="310" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NiCbDtiV-aUNA9fTxWZA-4" value="" style="rhombus;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="428.44000000000005" y="990" width="73.12" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NiCbDtiV-aUNA9fTxWZA-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NiCbDtiV-aUNA9fTxWZA-2" target="NiCbDtiV-aUNA9fTxWZA-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="80" y="1060" as="sourcePoint" />
+            <mxPoint x="240" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
