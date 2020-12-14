@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T15:22:24.236Z" agent="5.0 (Windows)" etag="vPSVjmqu8YyUj4GhxQsw" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T21:04:14.868Z" agent="5.0 (Windows)" etag="xA1FupMM2XL648guFBx3" version="13.10.6" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1505" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8BaFTCeRGY86CdU8lrJs-19" value="&lt;div&gt;خطا و ارسال نشدن پیام&lt;/div&gt;&lt;div&gt; تایید پس از مدت معین&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="8BaFTCeRGY86CdU8lrJs-18" vertex="1" connectable="0">
+        <mxCell id="8BaFTCeRGY86CdU8lrJs-19" value="&lt;div&gt;خطا و ارسال نشدن پیام]&lt;/div&gt;&lt;div&gt;[تایید پس از مدت معین&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="8BaFTCeRGY86CdU8lrJs-18" vertex="1" connectable="0">
           <mxGeometry x="-0.6686" y="1" relative="1" as="geometry">
             <mxPoint x="25.56" y="-1" as="offset" />
           </mxGeometry>
@@ -100,7 +100,7 @@
             <mxPoint x="380.63" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8BaFTCeRGY86CdU8lrJs-21" value="دریافت کد تایید احراز هویت" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="8BaFTCeRGY86CdU8lrJs-20" vertex="1" connectable="0">
+        <mxCell id="8BaFTCeRGY86CdU8lrJs-21" value="[دریافت کد تایید احراز هویت]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="8BaFTCeRGY86CdU8lrJs-20" vertex="1" connectable="0">
           <mxGeometry x="-0.4" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="9" as="offset" />
           </mxGeometry>
@@ -118,7 +118,7 @@
         <mxCell id="8BaFTCeRGY86CdU8lrJs-29" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="380" y="770" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Y0ST3H2XmRuG033SkUA-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ثبت نام خریدار&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5Y0ST3H2XmRuG033SkUA-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ثبت نام خریدار&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="15" width="160" height="55" as="geometry" />
         </mxCell>
       </root>
