@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T15:25:08.568Z" agent="5.0 (Windows)" etag="eUhCZdgpq4p8WjCbCnEn" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T08:28:38.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zrD_gUqaPFNP9h3GcF5B" version="14.0.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1806" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,22 +31,24 @@
         <mxCell id="9RaUeARzdxXOr93nFO7e-55" value="&lt;font style=&quot;font-size: 19px&quot;&gt;وارد کردن قیمت غذا&lt;/font&gt;" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="402.5" y="590" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9RaUeARzdxXOr93nFO7e-58" value="&lt;font style=&quot;font-size: 16px&quot;&gt;غذا جدید است&lt;/font&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-46" target="9RaUeARzdxXOr93nFO7e-61" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="9RaUeARzdxXOr93nFO7e-58" value="&lt;font style=&quot;font-size: 18px&quot;&gt;[غذا جدید است]&lt;/font&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-46" target="9RaUeARzdxXOr93nFO7e-61" edge="1">
+          <mxGeometry x="-0.0732" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="515" y="330" as="sourcePoint" />
             <mxPoint x="685" y="285" as="targetPoint" />
             <Array as="points">
               <mxPoint x="685" y="285" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9RaUeARzdxXOr93nFO7e-59" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-46" target="9RaUeARzdxXOr93nFO7e-66" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="9RaUeARzdxXOr93nFO7e-59" value="&lt;font style=&quot;font-size: 17px&quot;&gt;[غذا در لیست موجود است]&lt;/font&gt;" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-46" target="9RaUeARzdxXOr93nFO7e-66" edge="1">
+          <mxGeometry x="-0.1707" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="283.5" as="sourcePoint" />
             <mxPoint x="435" y="418.5" as="targetPoint" />
             <Array as="points">
               <mxPoint x="295" y="285" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9RaUeARzdxXOr93nFO7e-60" value="" style="rhombus;fontSize=21;" parent="1" vertex="1">
@@ -91,16 +93,17 @@
         <mxCell id="9RaUeARzdxXOr93nFO7e-72" value="" style="rhombus;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="465" y="695" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9RaUeARzdxXOr93nFO7e-73" value="&lt;font style=&quot;font-size: 16px&quot;&gt;امکان ارسال سفارش&lt;/font&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-72" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="9RaUeARzdxXOr93nFO7e-73" value="&lt;font style=&quot;font-size: 17px&quot;&gt;[امکان ارسال غذا هست]&lt;/font&gt;" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-72" edge="1">
+          <mxGeometry x="-0.1707" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="515" y="765" as="sourcePoint" />
             <mxPoint x="685" y="755" as="targetPoint" />
             <Array as="points">
               <mxPoint x="685" y="720" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9RaUeARzdxXOr93nFO7e-74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-72" target="9RaUeARzdxXOr93nFO7e-75" edge="1">
+        <mxCell id="9RaUeARzdxXOr93nFO7e-74" value="&lt;font style=&quot;font-size: 17px&quot;&gt;[امکان ارسال وجود ندارد]&lt;/font&gt;" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9RaUeARzdxXOr93nFO7e-72" target="9RaUeARzdxXOr93nFO7e-75" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="435" y="718.5" as="sourcePoint" />
             <mxPoint x="435" y="853.5" as="targetPoint" />
@@ -138,21 +141,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rb3ijf_uwXJVVXTIl9RE-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="465" y="1160" width="50" height="50" as="geometry" />
+          <mxGeometry x="466" y="1160" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xWk9efRamBadg3AurZ7h-1" value="&lt;font style=&quot;font-size: 26px&quot;&gt;فعالسازی منو برای رستوران&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="270" height="80" as="geometry" />
+        <mxCell id="xWk9efRamBadg3AurZ7h-1" value="&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;مدیریت غذا&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xWk9efRamBadg3AurZ7h-2" value="ثبت غذا در منو" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="405" y="1030" width="175" height="50" as="geometry" />
+        <mxCell id="xWk9efRamBadg3AurZ7h-2" value="ثبت غذا در منو" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="403" y="1040" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xWk9efRamBadg3AurZ7h-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="xWk9efRamBadg3AurZ7h-2">
+        <mxCell id="xWk9efRamBadg3AurZ7h-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="xWk9efRamBadg3AurZ7h-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490.5" y="978" as="sourcePoint" />
             <mxPoint x="490.5" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xWk9efRamBadg3AurZ7h-4" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xWk9efRamBadg3AurZ7h-2" target="Rb3ijf_uwXJVVXTIl9RE-1">
+        <mxCell id="xWk9efRamBadg3AurZ7h-4" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="xWk9efRamBadg3AurZ7h-2" target="Rb3ijf_uwXJVVXTIl9RE-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="489" y="1080" as="sourcePoint" />
             <mxPoint x="491" y="1132" as="targetPoint" />
