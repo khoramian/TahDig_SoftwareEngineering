@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T21:04:14.868Z" agent="5.0 (Windows)" etag="xA1FupMM2XL648guFBx3" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T08:22:44.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZtTA7rK86KmVFxb2O6bd" version="14.0.0" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1422" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="8BaFTCeRGY86CdU8lrJs-29" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="380" y="770" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Y0ST3H2XmRuG033SkUA-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ثبت نام خریدار&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="5Y0ST3H2XmRuG033SkUA-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;ثبت نام خریدار&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="15" width="160" height="55" as="geometry" />
         </mxCell>
       </root>
