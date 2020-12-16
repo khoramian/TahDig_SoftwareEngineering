@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T15:27:45.841Z" agent="5.0 (Windows)" etag="98E6ey7zE-B1NigZAkpN" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T15:47:39.210Z" agent="5.0 (Windows)" etag="cGPmtvXs6sDgeaMUiZ-T" version="14.0.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -43,8 +43,8 @@
         <mxCell id="lyuGTbBeJ2-KbHGN9zhW-10" value="&lt;div&gt;ثبت نام &lt;br&gt;&lt;/div&gt;&lt;div&gt;سفارش غذا&lt;/div&gt;&lt;div&gt;ثبت نظر&lt;/div&gt;&lt;div&gt;شارژ کیف پول&lt;/div&gt;&lt;div&gt;حذف از سیستم &lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="lyuGTbBeJ2-KbHGN9zhW-8">
           <mxGeometry y="70" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-12" value="فروشنده" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="410" width="200" height="212" as="geometry">
+        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-12" value="فروشنده" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="410" width="200" height="150" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -54,10 +54,10 @@
         <mxCell id="lyuGTbBeJ2-KbHGN9zhW-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="lyuGTbBeJ2-KbHGN9zhW-12">
           <mxGeometry y="66" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-14" value="&lt;div&gt;ثبت نام &lt;br&gt;&lt;/div&gt;&lt;div&gt;تنظیم نمایه فروش&lt;/div&gt;&lt;div&gt;درخواست فسخ قرارداد&lt;/div&gt;&lt;div&gt;تنظیم منواصلی&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="lyuGTbBeJ2-KbHGN9zhW-12">
-          <mxGeometry y="92" width="200" height="100" as="geometry" />
+        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-14" value="&lt;div&gt;ثبت نام &lt;br&gt;&lt;/div&gt;&lt;div&gt;درخواست فسخ قرارداد&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="lyuGTbBeJ2-KbHGN9zhW-12">
+          <mxGeometry y="92" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-16" value="رستوران" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-16" value="رستوران" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="410" width="200" height="172" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -71,7 +71,7 @@
         <mxCell id="lyuGTbBeJ2-KbHGN9zhW-24" value="&lt;div&gt;ثبت نمایه فروش&lt;/div&gt;&lt;div&gt;ثبت منوی اصلی&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="lyuGTbBeJ2-KbHGN9zhW-16">
           <mxGeometry y="132" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-21" value="رستوران" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="lyuGTbBeJ2-KbHGN9zhW-21" value="نمایه فروش" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="600" width="200" height="150" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
