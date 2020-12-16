@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T08:22:44.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ZtTA7rK86KmVFxb2O6bd" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T08:27:32.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JNLgvRrFtVQZB4eo9ya-" version="14.0.0" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="8BaFTCeRGY86CdU8lrJs-19" value="&lt;div&gt;خطا و ارسال نشدن پیام]&lt;/div&gt;&lt;div&gt;[تایید پس از مدت معین&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="8BaFTCeRGY86CdU8lrJs-18" vertex="1" connectable="0">
           <mxGeometry x="-0.6686" y="1" relative="1" as="geometry">
-            <mxPoint x="25.56" y="-1" as="offset" />
+            <mxPoint x="-54.44" y="-226" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8BaFTCeRGY86CdU8lrJs-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8BaFTCeRGY86CdU8lrJs-16" target="8BaFTCeRGY86CdU8lrJs-22" edge="1">
