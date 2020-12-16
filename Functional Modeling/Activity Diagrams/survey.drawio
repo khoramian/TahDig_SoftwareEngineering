@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T10:37:18.171Z" agent="5.0 (Windows)" etag="5IkQZ16piAUU1WdpIUaf" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T11:14:41.051Z" agent="5.0 (Windows)" etag="pDeyh7zGx3Bs4o61CGzp" version="14.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
             <mxPoint x="470" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7u4_Z7Mw72sVkrCknOZ8-42" value="نمایش پیام ثبت موفق نظر کاربر" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="7u4_Z7Mw72sVkrCknOZ8-42" value="نمایش صفحه اصلی" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="405" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7u4_Z7Mw72sVkrCknOZ8-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=1.3;exitY=0.517;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7u4_Z7Mw72sVkrCknOZ8-39" target="7u4_Z7Mw72sVkrCknOZ8-42" edge="1">
@@ -84,8 +84,8 @@
             <mxPoint x="470" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7u4_Z7Mw72sVkrCknOZ8-44" value="ثبت موفق نظر" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="292.5" y="450" width="130" height="60" as="geometry" />
+        <mxCell id="7u4_Z7Mw72sVkrCknOZ8-44" value="ثبت موفق نظر و نمایش پیام موفقیت" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="283.75" y="450" width="147.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7u4_Z7Mw72sVkrCknOZ8-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7u4_Z7Mw72sVkrCknOZ8-14" target="7u4_Z7Mw72sVkrCknOZ8-44" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
