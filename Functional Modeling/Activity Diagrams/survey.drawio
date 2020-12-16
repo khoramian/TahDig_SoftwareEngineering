@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T11:22:19.457Z" agent="5.0 (Windows)" etag="QVMdNBJAu7HnAyVArJi4" version="14.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T11:24:55.770Z" agent="5.0 (Windows)" etag="vNXe2VQnAn8s3exuj8nN" version="14.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
         <mxCell id="EkvRLkUR624aSWk5kKM5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EkvRLkUR624aSWk5kKM5-1" target="71KH_rdXFdiDzgESNzsc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EkvRLkUR624aSWk5kKM5-6" value="[رد کردن]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EkvRLkUR624aSWk5kKM5-4">
+        <mxCell id="EkvRLkUR624aSWk5kKM5-6" value="[رد کردن]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="EkvRLkUR624aSWk5kKM5-4">
           <mxGeometry x="-0.287" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -126,7 +126,7 @@
             <mxPoint x="460" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EkvRLkUR624aSWk5kKM5-9" value="[ثبت نظر]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EkvRLkUR624aSWk5kKM5-7">
+        <mxCell id="EkvRLkUR624aSWk5kKM5-9" value="[ثبت نظر]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="EkvRLkUR624aSWk5kKM5-7">
           <mxGeometry x="0.1818" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
