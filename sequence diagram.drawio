@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T15:04:32.945Z" agent="5.0 (Windows)" etag="7AMKO-4gAMP0kr5e26BJ" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T15:16:20.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="_zXSfkPsvopxJFgj9Mq_" version="14.1.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="7baba1c4bc27f4b0-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-11" value="(ورود کاربر ، رمزعبور (واردکردن اطلاعات" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="ut6v9Hb54iGJTpfCAv-P-7" edge="1" source="vPaIO74BmuWiDXxKidrT-9">
+        <mxCell id="7baba1c4bc27f4b0-11" value="(ورود کاربر ، رمزعبور (واردکردن اطلاعات" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="vPaIO74BmuWiDXxKidrT-9" target="ut6v9Hb54iGJTpfCAv-P-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="200" as="sourcePoint" />
             <mxPoint x="440" y="194" as="targetPoint" />
@@ -25,16 +25,16 @@
         <mxCell id="vPaIO74BmuWiDXxKidrT-9" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="80" width="20" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;کاربر&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="ut6v9Hb54iGJTpfCAv-P-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;کاربر&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="60" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;سیستم &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="ut6v9Hb54iGJTpfCAv-P-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;سیستم &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="90" width="100" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ut6v9Hb54iGJTpfCAv-P-7">
+        <mxCell id="ut6v9Hb54iGJTpfCAv-P-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ut6v9Hb54iGJTpfCAv-P-7" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-10" value="ورود به سیستم (ورود کاربر ، رمزعبور)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="7baba1c4bc27f4b0-2">
+        <mxCell id="ut6v9Hb54iGJTpfCAv-P-10" value="ورود به سیستم (ورود کاربر ، رمزعبور)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" target="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="230" as="sourcePoint" />
             <mxPoint x="530" y="230" as="targetPoint" />
@@ -46,7 +46,7 @@
         <mxCell id="vPaIO74BmuWiDXxKidrT-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1" vertex="1">
           <mxGeometry x="135" y="160" width="10" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-12" value="نمایش صفحه کاربری" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ut6v9Hb54iGJTpfCAv-P-7">
+        <mxCell id="ut6v9Hb54iGJTpfCAv-P-12" value="نمایش صفحه کاربری" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ut6v9Hb54iGJTpfCAv-P-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="710" y="240" as="sourcePoint" />
             <mxPoint x="140" y="280" as="targetPoint" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;تایید اعتبار&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="7baba1c4bc27f4b0-2" target="ut6v9Hb54iGJTpfCAv-P-7">
+        <mxCell id="ut6v9Hb54iGJTpfCAv-P-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;تایید اعتبار&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" source="7baba1c4bc27f4b0-2" target="ut6v9Hb54iGJTpfCAv-P-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="290" as="sourcePoint" />
             <mxPoint x="360" y="290" as="targetPoint" />
@@ -64,9 +64,6 @@
               <mxPoint x="440" y="260" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ut6v9Hb54iGJTpfCAv-P-16" value="&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;صلاح نیس&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
