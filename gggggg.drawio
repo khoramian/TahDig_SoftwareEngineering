@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T09:43:28.741Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KOXNSP0Q63g0nAYjyfnS" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T09:44:40.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="NUZPboNB0AdIq1WhRM6K" version="14.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZh1ZtW-dNU_HLveQdIa-15" value="&lt;div&gt;شناسه خرید&lt;br&gt;&lt;/div&gt;&lt;div&gt;شناسه رستوران&lt;/div&gt;&lt;div&gt;&lt;span&gt;شناسه خریدار&lt;/span&gt;&lt;/div&gt;&lt;div&gt;مبلغ کل&lt;/div&gt;&lt;div&gt;لیست غذا&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="tZh1ZtW-dNU_HLveQdIa-14" vertex="1">
+        <mxCell id="tZh1ZtW-dNU_HLveQdIa-15" value="&lt;div&gt;شناسه خرید&lt;br&gt;&lt;/div&gt;&lt;div&gt;شناسه رستوران&lt;/div&gt;&lt;div&gt;&lt;span&gt;شناسه خریدار&lt;/span&gt;&lt;/div&gt;&lt;div&gt;قیمت کل&lt;/div&gt;&lt;div&gt;لیست غذا&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="tZh1ZtW-dNU_HLveQdIa-14" vertex="1">
           <mxGeometry y="26" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="tZh1ZtW-dNU_HLveQdIa-16" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="tZh1ZtW-dNU_HLveQdIa-14" vertex="1">
