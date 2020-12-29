@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T16:09:56.485Z" agent="5.0 (Windows)" etag="JOLIudL9xLTYvtnnvgsK" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T16:11:34.481Z" agent="5.0 (Windows)" etag="PzAWldCu0_jXUxyfrxvT" version="14.0.1" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -148,6 +148,18 @@
             <Array as="points">
               <mxPoint x="366" y="560" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGV9pTGx9m-C5QzWmwW4-25" value="&lt;b&gt;&amp;nbsp;پیام تایید&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry x="0.1815" y="21" relative="1" as="geometry">
+            <mxPoint x="260" y="530" as="sourcePoint" />
+            <mxPoint x="75" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200.5" y="529.5" />
+              <mxPoint x="180.5" y="529.5" />
+              <mxPoint x="160.5" y="529.5" />
+            </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
