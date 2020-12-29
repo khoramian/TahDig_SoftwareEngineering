@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T08:49:05.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dwE8mn3ImpyFkUO6zpnq" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T15:18:06.176Z" agent="5.0 (Windows)" etag="eI60iNTxAz_Ae6KtIMwe" version="14.0.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2926" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,7 +139,7 @@
         <mxCell id="fQumDwOXY34OFx4Cvdbp-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="65" y="1630" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SYJpGWBFYSdh2bLVMire-1" value="نهایی شدن ثبت نام و اضافه شدن رستوران " style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="SYJpGWBFYSdh2bLVMire-1" value="نشان دادن صفحه رستوران" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-380" y="1280" width="155" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYJpGWBFYSdh2bLVMire-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;fontSize=16;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="SYJpGWBFYSdh2bLVMire-1" target="DQqHGs-p3ERk4oJJiJ_H-7" edge="1">
@@ -292,7 +292,7 @@
             <mxPoint x="180" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xdTLIEcxps1YVRZZDMSl-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;ثبت نام فروشنده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="xdTLIEcxps1YVRZZDMSl-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 31px&quot;&gt;ثبت نام فروشنده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-790" y="40" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
