@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T11:53:49.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ndBRz8K-fQzhpHOq10Y0" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T14:45:36.027Z" agent="5.0 (Windows)" etag="4-xn0g9ra7AD14NI5UUW" version="14.1.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="860" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,15 @@
             <Array as="points">
               <mxPoint x="286" y="254" />
               <mxPoint x="296" y="234" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jMtxda6HqL_l2iOmwYq7-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;پیام تایید&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="fJkAf8iDeeMi9OgPM06Z-8" target="fJkAf8iDeeMi9OgPM06Z-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="290" as="sourcePoint" />
+            <mxPoint x="230" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
