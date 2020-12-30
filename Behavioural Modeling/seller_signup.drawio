@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T08:37:40.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="W7vk2tEwzWy0Sl5XwDRG" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T08:38:55.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="9kO2s3wnVMyaA11tNfYb" version="14.1.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value="&lt;font style=&quot;font-size: 15px&quot;&gt;فروشنده&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="370" y="240" width="100" height="580" as="geometry" />
+          <mxGeometry x="370" y="231" width="100" height="440" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="300" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ادمین&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="670" y="80" width="100" height="580" as="geometry" />
+          <mxGeometry x="670" y="80" width="100" height="590" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="300" as="geometry" />
@@ -54,7 +54,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;سیستم &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="85" width="100" height="570" as="geometry" />
+          <mxGeometry x="220" y="85" width="100" height="585" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="GGV9pTGx9m-C5QzWmwW4-1" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="210" as="geometry" />
@@ -62,17 +62,17 @@
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="GGV9pTGx9m-C5QzWmwW4-1" vertex="1">
           <mxGeometry x="40" y="395" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GGV9pTGx9m-C5QzWmwW4-3" value="اضافه کردن فروشنده" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7baba1c4bc27f4b0-2" edge="1">
+        <mxCell id="GGV9pTGx9m-C5QzWmwW4-3" value="اضافه کردن فروشنده" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.005;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="270" y="255" as="sourcePoint" />
-            <mxPoint x="350" y="255" as="targetPoint" />
+            <mxPoint x="370" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="255" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-8" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;رستوران&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="940" y="390" width="100" height="580" as="geometry" />
+          <mxGeometry x="940" y="390" width="100" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="GGV9pTGx9m-C5QzWmwW4-8" vertex="1">
           <mxGeometry x="45" y="60" width="10" height="90" as="geometry" />
