@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T16:12:47.083Z" agent="5.0 (Windows)" etag="NpiyGx3jw_zD7Zj9GRwm" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T14:08:07.543Z" agent="5.0 (Windows)" etag="mubH1PFT8jdkyRXKQsy5" version="14.1.3" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="2333" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1632" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fQumDwOXY34OFx4Cvdbp-19" value="&lt;div&gt;[خطا و ارسال نشدن پیام&lt;/div&gt;&lt;div&gt; تایید پس از مدت معین]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-18" vertex="1" connectable="0">
+        <mxCell id="fQumDwOXY34OFx4Cvdbp-19" value="&lt;div&gt;[خطا ]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="fQumDwOXY34OFx4Cvdbp-18" vertex="1" connectable="0">
           <mxGeometry x="-0.6686" y="1" relative="1" as="geometry">
             <mxPoint x="25.56" y="-1" as="offset" />
           </mxGeometry>
