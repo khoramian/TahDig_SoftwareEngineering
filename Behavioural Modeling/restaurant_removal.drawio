@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T16:55:04.483Z" agent="5.0 (Windows)" etag="4Vy5eYFVtuzsYhMTIV2w" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T11:54:04.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="dInHGGDALxbQ1ciEFAlY" version="14.1.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="782" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-13" value="درخواست حذف رستوران" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="xVhR0Zh99ry8Dv5ZZcrm-15" target="xVhR0Zh99ry8Dv5ZZcrm-33">
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-13" value="درخواست حذف رستوران" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="xVhR0Zh99ry8Dv5ZZcrm-15" target="xVhR0Zh99ry8Dv5ZZcrm-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="165" y="210" as="sourcePoint" />
             <mxPoint x="450" y="204" as="targetPoint" />
@@ -14,34 +14,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-14" value="حذف رستوران" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="100" height="35" as="geometry" />
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-14" value="حذف رستوران" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-15" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="90" width="20" height="580" as="geometry" />
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-15" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="90" width="20" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="xVhR0Zh99ry8Dv5ZZcrm-15">
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="xVhR0Zh99ry8Dv5ZZcrm-15" vertex="1">
           <mxGeometry x="5" y="80" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-16" value="فروشنده" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="50" height="20" as="geometry" />
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-16" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;فروشنده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="69" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-31" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ادمین&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="325" y="80" width="100" height="580" as="geometry" />
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-31" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;ادمین&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="325" y="80" width="100" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="xVhR0Zh99ry8Dv5ZZcrm-31">
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="xVhR0Zh99ry8Dv5ZZcrm-31" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-33" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="90" width="20" height="590" as="geometry" />
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-33" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="90" width="20" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="xVhR0Zh99ry8Dv5ZZcrm-33">
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="xVhR0Zh99ry8Dv5ZZcrm-33" vertex="1">
           <mxGeometry x="5" y="130" width="10" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;ادمین&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;ادمین&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="70" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-36" value="حذف رستوران ()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="xVhR0Zh99ry8Dv5ZZcrm-36" value="حذف رستوران ()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="260" as="sourcePoint" />
             <mxPoint x="370" y="260" as="targetPoint" />
