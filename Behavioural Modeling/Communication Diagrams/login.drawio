@@ -1,77 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T08:23:40.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ugrlFPMpvTuijAPT-7t0" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T08:30:59.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="EzJ9vS0JYu1j9r7w8P5z" version="14.1.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1550" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1231" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-16" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;کاربر:یک کاربر&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="100" width="100" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="b3XUP-Xao2zp08QGgYTl-16">
-          <mxGeometry x="45" y="120" width="10" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="b3XUP-Xao2zp08QGgYTl-18" value="1: نام کاربری ، رمزعبور) واردکردن اطلاعات)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="b3XUP-Xao2zp08QGgYTl-28" target="b3XUP-Xao2zp08QGgYTl-29">
           <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint x="670" y="210" as="sourcePoint" />
-            <mxPoint x="955" y="204" as="targetPoint" />
+            <mxPoint x="600" y="140" as="sourcePoint" />
+            <mxPoint x="885" y="134" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3XUP-Xao2zp08QGgYTl-19" value="Login" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="100" height="35" as="geometry" />
+          <mxGeometry width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-20" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="645" y="90" width="20" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-21" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;کاربر&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="70" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;سیستم &lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="815" y="100" width="100" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="b3XUP-Xao2zp08QGgYTl-22">
-          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-24" value="ورود به سیستم (ورود کاربر ، رمزعبور)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="b3XUP-Xao2zp08QGgYTl-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="865" y="239.9999999999999" as="sourcePoint" />
-            <mxPoint x="1045" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1010" y="240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="650" y="170" width="10" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-26" value="بله" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="b3XUP-Xao2zp08QGgYTl-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1225" y="250" as="sourcePoint" />
-            <mxPoint x="655.0000000000002" y="289.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="775" y="290" />
-              <mxPoint x="805" y="252" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b3XUP-Xao2zp08QGgYTl-27" value="&lt;font style=&quot;font-size: 15px&quot;&gt;تایید اعتبار&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="b3XUP-Xao2zp08QGgYTl-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="955" y="300" as="sourcePoint" />
-            <mxPoint x="875" y="269.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="955" y="270" />
-            </Array>
+        <mxCell id="b3XUP-Xao2zp08QGgYTl-24" value="2: نام کاربری ، رمزعبور) ورود به سیستم)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="b3XUP-Xao2zp08QGgYTl-30" source="b3XUP-Xao2zp08QGgYTl-29">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint x="795" y="169.9999999999999" as="sourcePoint" />
+            <mxPoint x="975" y="170" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3XUP-Xao2zp08QGgYTl-28" value="کاربر" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="30" height="60" as="geometry" />
+          <mxGeometry x="50" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b3XUP-Xao2zp08QGgYTl-29" value="سیستم" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b3XUP-Xao2zp08QGgYTl-30" value="کاربر: یک کاربر" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
