@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T15:54:30.086Z" agent="5.0 (Windows)" etag="MtbDEp6ep-D1zuXPKY4R" version="14.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T15:55:51.105Z" agent="5.0 (Windows)" etag="bC7l-1k2GI3lOIMLMNEp" version="14.1.3" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="782" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -163,9 +163,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rpGjwjJFSFd8zny6q6m1-5" value="تنظیم ادرس()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpGjwjJFSFd8zny6q6m1-4">
+        <mxCell id="rpGjwjJFSFd8zny6q6m1-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;ایجاد ادرس&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rpGjwjJFSFd8zny6q6m1-4">
           <mxGeometry x="-0.1679" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
