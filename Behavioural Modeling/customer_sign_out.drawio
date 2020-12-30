@@ -1,16 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T09:02:32.428Z" agent="5.0 (Windows)" etag="Lmij8EiQf38-pmy7hYBZ" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T09:08:55.774Z" agent="5.0 (Windows)" etag="70sQlZwCrNty8BMqhp6g" version="14.0.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="782" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5QdPKmFo6trkmAIozfQi-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;کاربر:یک کاربر&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="500" y="90" width="100" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="5QdPKmFo6trkmAIozfQi-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="5QdPKmFo6trkmAIozfQi-1">
-          <mxGeometry x="45" y="120" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="5QdPKmFo6trkmAIozfQi-3" value="(ورود کاربر ، رمزعبور (واردکردن اطلاعات" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="5QdPKmFo6trkmAIozfQi-5" target="5QdPKmFo6trkmAIozfQi-7">
+        <mxCell id="5QdPKmFo6trkmAIozfQi-3" value="درخواست خروج از حساب کاربری" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="5QdPKmFo6trkmAIozfQi-5" target="5QdPKmFo6trkmAIozfQi-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="200" as="sourcePoint" />
             <mxPoint x="440" y="194" as="targetPoint" />
@@ -34,10 +28,10 @@
         <mxCell id="5QdPKmFo6trkmAIozfQi-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="5QdPKmFo6trkmAIozfQi-7">
           <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="5QdPKmFo6trkmAIozfQi-9" value="ورود به سیستم (ورود کاربر ، رمزعبور)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="5QdPKmFo6trkmAIozfQi-1">
+        <mxCell id="5QdPKmFo6trkmAIozfQi-9" value="حذف حساب کاربر(اطلاعات کاربر)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="5QdPKmFo6trkmAIozfQi-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="230" as="sourcePoint" />
-            <mxPoint x="530" y="230" as="targetPoint" />
+            <mxPoint x="549.5" y="230" as="targetPoint" />
             <Array as="points">
               <mxPoint x="495" y="230" />
             </Array>
@@ -46,20 +40,26 @@
         <mxCell id="5QdPKmFo6trkmAIozfQi-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="135" y="160" width="10" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="5QdPKmFo6trkmAIozfQi-11" value="&lt;font style=&quot;font-size: 15px&quot;&gt;تایید اعتبار&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="5QdPKmFo6trkmAIozfQi-1">
+        <mxCell id="5QdPKmFo6trkmAIozfQi-11" value="تایید " style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="5QdPKmFo6trkmAIozfQi-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="290" as="sourcePoint" />
+            <mxPoint x="549.5" y="260" as="sourcePoint" />
             <mxPoint x="360" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="440" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5QdPKmFo6trkmAIozfQi-12" value="&lt;font style=&quot;font-size: 15px&quot;&gt;بله&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.7;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5QdPKmFo6trkmAIozfQi-10">
+        <mxCell id="5QdPKmFo6trkmAIozfQi-12" value="پیام موفقیت حذف حساب" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.7;entryY=0.297;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5QdPKmFo6trkmAIozfQi-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="276" as="sourcePoint" />
             <mxPoint x="370" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5QdPKmFo6trkmAIozfQi-13" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;دیتابیس خریدار&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="140" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="5QdPKmFo6trkmAIozfQi-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="5QdPKmFo6trkmAIozfQi-13">
+          <mxGeometry x="65" y="90" width="10" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
