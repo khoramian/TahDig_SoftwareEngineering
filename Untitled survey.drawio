@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:33:33.056Z" agent="5.0 (Windows)" etag="7vsK9K5lUbuziqt-XL4p" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:33:44.147Z" agent="5.0 (Windows)" etag="8k6ZTDsJwXQuTV7HcLsZ" version="14.1.7" type="github">
   <diagram id="UkEdO78DAO37uY5rxgCi" name="Page-1">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="asSBpoJGRj7BXhes8iBR-5" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="80" width="20" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="asSBpoJGRj7BXhes8iBR-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asSBpoJGRj7BXhes8iBR-5">
+          <mxGeometry x="5" y="80" width="10" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
