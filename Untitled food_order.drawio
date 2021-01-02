@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T07:33:30.429Z" agent="5.0 (Windows)" etag="i-6kzCIhtuBvCXDVS3M9" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T07:36:30.473Z" agent="5.0 (Windows)" etag="EVgHAygATfr5_qcOSVzJ" version="14.1.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -118,6 +118,17 @@
               <mxPoint x="340" y="560" />
             </Array>
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asdhkFeUrT_0oHcq7WQL-29" value="تایید شارژ کیف پول" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="asdhkFeUrT_0oHcq7WQL-5" target="asdhkFeUrT_0oHcq7WQL-2">
+          <mxGeometry x="0.0501" y="-10" relative="1" as="geometry">
+            <mxPoint x="180" y="600" as="sourcePoint" />
+            <mxPoint x="-9.5" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="148.33" y="600" />
+              <mxPoint x="108.33000000000001" y="600" />
+            </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
