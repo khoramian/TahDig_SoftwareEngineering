@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T08:24:38.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Cm7TAqHfe0dtUBAlG7L3" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T08:30:40.945Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CdfMkLgeQC4k8RMsOZm3" version="14.1.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="748" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="800" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-2" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;فروشنده&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="432" y="260" width="100" height="440" as="geometry" />
+          <mxGeometry x="469" y="275" width="100" height="445" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-2" vertex="1">
           <mxGeometry x="45" y="300" width="10" height="90" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="45" y="60" width="10" height="41" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-3" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;ادمین&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="872" y="119" width="100" height="581" as="geometry" />
+          <mxGeometry x="909" y="134" width="100" height="586" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="300" as="geometry" />
@@ -23,41 +23,41 @@
           <mxGeometry width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-3" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="67" y="109" width="20" height="590" as="geometry" />
+          <mxGeometry x="104" y="129" width="20" height="590" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="72" y="209" width="10" height="210" as="geometry" />
+          <mxGeometry x="109" y="224" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-4" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;فروشنده&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="47" y="79" width="60" height="20" as="geometry" />
+          <mxGeometry x="84" y="100" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-7" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="119" width="20" height="581" as="geometry" />
+          <mxGeometry x="757" y="134" width="20" height="586" as="geometry" />
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="PAJsI3pcgYEAJqyI_WZA-7" vertex="1">
           <mxGeometry x="5" y="230" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;ادمین&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="705" y="91" width="50" height="20" as="geometry" />
+          <mxGeometry x="742" y="105" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-15" value="&lt;b&gt;(درخواست ثبت نام (اطلاعات کاربر&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.1;entryY=0.248;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7baba1c4bc27f4b0-9" target="GGV9pTGx9m-C5QzWmwW4-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="237" y="259" as="sourcePoint" />
-            <mxPoint x="317" y="259" as="targetPoint" />
+            <mxPoint x="274" y="274" as="sourcePoint" />
+            <mxPoint x="354" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PAJsI3pcgYEAJqyI_WZA-16" value="&lt;b&gt;&amp;nbsp;پیام تایید و بازشدن صفحه کاربر&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.086" y="-2" relative="1" as="geometry">
-            <mxPoint x="268" y="311" as="sourcePoint" />
-            <mxPoint x="82" y="311" as="targetPoint" />
+            <mxPoint x="305" y="326" as="sourcePoint" />
+            <mxPoint x="119" y="326" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="182.5" y="311" />
+              <mxPoint x="219.5" y="326" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-1" value="&lt;b&gt;&lt;font&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;سیستم &lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="227" y="109" width="100" height="591" as="geometry" />
+          <mxGeometry x="264" y="123" width="100" height="597" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="GGV9pTGx9m-C5QzWmwW4-1" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="240" as="geometry" />
@@ -67,84 +67,84 @@
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-3" value="&lt;div&gt;&lt;b&gt;[اضافه کردن فروشنده [درصورت تایید&lt;/b&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.005;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="280" y="284" as="sourcePoint" />
-            <mxPoint x="377" y="289" as="targetPoint" />
+            <mxPoint x="317" y="299" as="sourcePoint" />
+            <mxPoint x="414" y="304" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="337" y="284" />
+              <mxPoint x="374" y="299" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;رستوران&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1045" y="429" width="100" height="280" as="geometry" />
+          <mxGeometry x="1082" y="444" width="100" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="GGV9pTGx9m-C5QzWmwW4-8" vertex="1">
           <mxGeometry x="45" y="60" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-10" value="&lt;b&gt;ایجاد رستوران &lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry x="-0.0888" y="10" width="80" relative="1" as="geometry">
-            <mxPoint x="927" y="449" as="sourcePoint" />
-            <mxPoint x="1044.5" y="449" as="targetPoint" />
+            <mxPoint x="964" y="464" as="sourcePoint" />
+            <mxPoint x="1081.5" y="464" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-11" value="&lt;b&gt;(درخواست ثبت نام (اطلاعات رستوران&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="77" y="359" as="sourcePoint" />
-            <mxPoint x="273" y="359" as="targetPoint" />
+            <mxPoint x="114" y="374" as="sourcePoint" />
+            <mxPoint x="310" y="374" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="242" y="359" />
+              <mxPoint x="279" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-13" value="&lt;b&gt;(ثبت نام (اطلاعات رستوران&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=-0.191;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.255;exitY=0.834;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="PAJsI3pcgYEAJqyI_WZA-8" edge="1" source="GGV9pTGx9m-C5QzWmwW4-2">
           <mxGeometry x="0.1624" width="80" relative="1" as="geometry">
-            <mxPoint x="277" y="380" as="sourcePoint" />
-            <mxPoint x="417" y="369" as="targetPoint" />
+            <mxPoint x="314" y="395" as="sourcePoint" />
+            <mxPoint x="454" y="384" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-18" value="&lt;b&gt;(اضافه&amp;nbsp; کردن رستوران (اطلاعات رستوران&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.118;exitY=0.799;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="7baba1c4bc27f4b0-3" edge="1" source="PAJsI3pcgYEAJqyI_WZA-8">
           <mxGeometry x="0.0028" y="10" width="80" relative="1" as="geometry">
-            <mxPoint x="740" y="419" as="sourcePoint" />
-            <mxPoint x="745" y="419" as="targetPoint" />
+            <mxPoint x="777" y="434" as="sourcePoint" />
+            <mxPoint x="782" y="434" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-20" value="&lt;b&gt;&amp;nbsp;پیام تایید&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.0385" relative="1" as="geometry">
-            <mxPoint x="1090" y="539" as="sourcePoint" />
-            <mxPoint x="280" y="539" as="targetPoint" />
+            <mxPoint x="1127" y="554" as="sourcePoint" />
+            <mxPoint x="317" y="554" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-24" value="&lt;b&gt;(ثبت رستوران (اطلاعات رستوران&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" target="7baba1c4bc27f4b0-2" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="280" y="589" as="sourcePoint" />
-            <mxPoint x="427" y="589" as="targetPoint" />
+            <mxPoint x="317" y="604" as="sourcePoint" />
+            <mxPoint x="464" y="604" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="373" y="589" />
+              <mxPoint x="410" y="604" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GGV9pTGx9m-C5QzWmwW4-25" value="&lt;b&gt;&amp;nbsp;پیام تایید&lt;br&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1">
           <mxGeometry x="0.0757" y="-9" relative="1" as="geometry">
-            <mxPoint x="267" y="559" as="sourcePoint" />
-            <mxPoint x="82" y="559" as="targetPoint" />
+            <mxPoint x="304" y="574" as="sourcePoint" />
+            <mxPoint x="119" y="574" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="207.5" y="558.5" />
-              <mxPoint x="187.5" y="558.5" />
-              <mxPoint x="167.5" y="558.5" />
+              <mxPoint x="244.5" y="573.5" />
+              <mxPoint x="224.5" y="573.5" />
+              <mxPoint x="204.5" y="573.5" />
             </Array>
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rpGjwjJFSFd8zny6q6m1-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;آدرس&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="590" y="319" width="78" height="380" as="geometry" />
+          <mxGeometry x="627" y="334" width="78" height="386" as="geometry" />
         </mxCell>
         <mxCell id="rpGjwjJFSFd8zny6q6m1-4" value="" style="endArrow=classic;html=1;exitX=0.948;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.014;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rpGjwjJFSFd8zny6q6m1-9" edge="1" target="rpGjwjJFSFd8zny6q6m1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="340" as="sourcePoint" />
-            <mxPoint x="550" y="340" as="targetPoint" />
+            <mxPoint x="497" y="355" as="sourcePoint" />
+            <mxPoint x="587" y="355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rpGjwjJFSFd8zny6q6m1-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;ایجاد آدرس&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rpGjwjJFSFd8zny6q6m1-4" vertex="1" connectable="0">
@@ -153,14 +153,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rpGjwjJFSFd8zny6q6m1-6" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;آدرس&lt;/b&gt;&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1200.5" y="490" width="78" height="220" as="geometry" />
+          <mxGeometry x="1237.5" y="505" width="78" height="215" as="geometry" />
         </mxCell>
         <mxCell id="rpGjwjJFSFd8zny6q6m1-7" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1100" y="510" as="sourcePoint" />
-            <mxPoint x="1200.5" y="510" as="targetPoint" />
+            <mxPoint x="1137" y="525" as="sourcePoint" />
+            <mxPoint x="1237.5" y="525" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1170.5" y="510" />
+              <mxPoint x="1207.5" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
