@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:54:55.969Z" agent="5.0 (Windows)" etag="szm8rsAeYhYeKtYjTyVb" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:55:18.479Z" agent="5.0 (Windows)" etag="5SBOoVH66j6Z-W-egwgs" version="14.1.7" type="github">
   <diagram id="TNK90LvZn79N-iHInRv5" name="Page-1">
     <mxGraphModel dx="1157" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
             <mxPoint x="680" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q77AWnfHHcXzyX1iP8RP-10" value="1: جستجو(نام رستوران)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="150" height="20" as="geometry" />
+        <mxCell id="Q77AWnfHHcXzyX1iP8RP-10" value="1: اعلان برای ثبت نظر" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q77AWnfHHcXzyX1iP8RP-12" value="" style="endArrow=classicThin;html=1;strokeWidth=1;endSize=20;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
