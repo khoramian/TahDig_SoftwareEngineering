@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:37:40.006Z" agent="5.0 (Windows)" etag="63BeDXMw65BGN9TglcnX" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:38:05.518Z" agent="5.0 (Windows)" etag="TWeMN9NnwJLiBhUJj7M6" version="14.1.7" type="github">
   <diagram id="UkEdO78DAO37uY5rxgCi" name="Page-1">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
         <mxCell id="asSBpoJGRj7BXhes8iBR-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asSBpoJGRj7BXhes8iBR-11">
           <mxGeometry x="45" y="80" width="10" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="asSBpoJGRj7BXhes8iBR-13" value="اعلان برای ثبت نظر" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="asSBpoJGRj7BXhes8iBR-11">
+        <mxCell id="asSBpoJGRj7BXhes8iBR-13" value="ثبت نظر(نوشته، نمره)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="asSBpoJGRj7BXhes8iBR-11">
           <mxGeometry x="0.0595" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="280" y="240" as="sourcePoint" />
             <mxPoint x="400" y="190" as="targetPoint" />
