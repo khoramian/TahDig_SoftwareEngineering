@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T06:58:15.261Z" agent="5.0 (Windows)" etag="JjioWrOcnYYt4OC_IiLy" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T06:58:33.909Z" agent="5.0 (Windows)" etag="307PCC7DrOlskL7DkpKS" version="14.1.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="asdhkFeUrT_0oHcq7WQL-1" value="(ثبت نام (رستوران " style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+        <mxCell id="asdhkFeUrT_0oHcq7WQL-1" value="سفارش غذا" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry width="100" height="35" as="geometry" />
         </mxCell>
       </root>
