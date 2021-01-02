@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T10:35:00.369Z" agent="5.0 (Windows)" etag="ODwG0KdNGP-MbkspV6ux" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T10:35:25.341Z" agent="5.0 (Windows)" etag="mV6wRNUdNt_NfAp9yOGC" version="14.1.7" type="github">
   <diagram id="UkEdO78DAO37uY5rxgCi" name="Page-1">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -22,14 +22,14 @@
         <mxCell id="asSBpoJGRj7BXhes8iBR-7" value="خریدار" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="40" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="asSBpoJGRj7BXhes8iBR-10" value="&lt;b&gt;(درخواست ثبت نام (اطلاعات کاربر&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="asSBpoJGRj7BXhes8iBR-2" target="asSBpoJGRj7BXhes8iBR-5">
-          <mxGeometry x="0.037" y="-149" width="80" relative="1" as="geometry">
+        <mxCell id="asSBpoJGRj7BXhes8iBR-10" value="اعلان برای ثبت نظر" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="asSBpoJGRj7BXhes8iBR-2" target="asSBpoJGRj7BXhes8iBR-5">
+          <mxGeometry x="0.0595" y="10" width="80" relative="1" as="geometry">
             <mxPoint x="160" y="200" as="sourcePoint" />
             <mxPoint x="230" y="210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="210" />
             </Array>
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
