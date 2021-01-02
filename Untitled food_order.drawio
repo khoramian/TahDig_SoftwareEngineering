@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T07:04:58.745Z" agent="5.0 (Windows)" etag="sQYi4UXA5wGPgFvL5ID7" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T07:05:21.727Z" agent="5.0 (Windows)" etag="mvFx2RPyVb1mqxbZgcQn" version="14.1.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="asdhkFeUrT_0oHcq7WQL-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asdhkFeUrT_0oHcq7WQL-8">
           <mxGeometry x="45" y="90" width="10" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="asdhkFeUrT_0oHcq7WQL-11" value="&lt;b&gt;(درخواست ثبت نام (اطلاعات کاربر&lt;/b&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.8;exitY=0.093;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="asdhkFeUrT_0oHcq7WQL-3" target="asdhkFeUrT_0oHcq7WQL-5">
-          <mxGeometry x="-0.4921" y="-69" width="80" relative="1" as="geometry">
+        <mxCell id="asdhkFeUrT_0oHcq7WQL-11" value="انتخاب یک رستوران" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.8;exitY=0.093;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="asdhkFeUrT_0oHcq7WQL-3" target="asdhkFeUrT_0oHcq7WQL-5">
+          <mxGeometry x="-0.0501" y="40" width="80" relative="1" as="geometry">
             <mxPoint x="140" y="230" as="sourcePoint" />
             <mxPoint x="210" y="230" as="targetPoint" />
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
