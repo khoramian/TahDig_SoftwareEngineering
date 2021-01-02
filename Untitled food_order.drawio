@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T07:50:02.102Z" agent="5.0 (Windows)" etag="uTx4q7W3rUcn8W1xZnBu" version="14.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-02T07:52:13.485Z" agent="5.0 (Windows)" etag="jQuTQDj9k1G4BsIqdDe0" version="14.1.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1157" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="67" y="109" width="20" height="691" as="geometry" />
+          <mxGeometry x="67" y="109" width="20" height="731" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asdhkFeUrT_0oHcq7WQL-2">
           <mxGeometry x="5" y="90" width="10" height="560" as="geometry" />
@@ -17,13 +17,13 @@
           <mxGeometry x="57" y="70" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-5" value="سیستم" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="109" width="100" height="691" as="geometry" />
+          <mxGeometry x="220" y="109" width="100" height="731" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asdhkFeUrT_0oHcq7WQL-5">
           <mxGeometry x="45" y="90" width="10" height="560" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-8" value="رستوران (دیتابیس)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="109" width="100" height="691" as="geometry" />
+          <mxGeometry x="450" y="109" width="100" height="731" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asdhkFeUrT_0oHcq7WQL-8">
           <mxGeometry x="45" y="161" width="10" height="59" as="geometry" />
@@ -88,10 +88,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-23" value="خریدار" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="670" y="109" width="100" height="691" as="geometry" />
+          <mxGeometry x="670" y="109" width="100" height="731" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asdhkFeUrT_0oHcq7WQL-23">
-          <mxGeometry x="45" y="400" width="10" height="250" as="geometry" />
+          <mxGeometry x="45" y="400" width="10" height="220" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-25" value="درخواست شارژ کیف پول" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0501" y="10" width="80" relative="1" as="geometry">
@@ -149,13 +149,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-32" value="خرید" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="840" y="700" width="100" height="260" as="geometry" />
+          <mxGeometry x="840" y="700" width="100" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="asdhkFeUrT_0oHcq7WQL-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="asdhkFeUrT_0oHcq7WQL-32">
+          <mxGeometry x="45" y="50" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="asdhkFeUrT_0oHcq7WQL-34" value="ساخت کلاس خرید" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry x="-0.0909" width="80" relative="1" as="geometry">
             <mxPoint x="720" y="720" as="sourcePoint" />
             <mxPoint x="830" y="720" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asdhkFeUrT_0oHcq7WQL-37" value="پیام تایید" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="asdhkFeUrT_0oHcq7WQL-32" target="asdhkFeUrT_0oHcq7WQL-5">
+          <mxGeometry x="0.0301" y="-10" width="80" relative="1" as="geometry">
+            <mxPoint x="820" y="750" as="sourcePoint" />
+            <mxPoint x="430" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="760" />
+            </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
