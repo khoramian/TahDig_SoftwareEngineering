@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T11:56:54.361Z" agent="5.0 (Windows)" etag="_tE4Kxw2m621QEoMHvKD" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T11:58:09.320Z" agent="5.0 (Windows)" etag="JR5q5E4AiV8kMIei6K-u" version="14.2.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2675" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -221,7 +221,7 @@
           <mxGeometry x="-800" y="650" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-77" value="Admin UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="808.5" width="160" height="86" as="geometry" />
+          <mxGeometry x="90" y="1040" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-78" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-77">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -504,6 +504,9 @@
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-195" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="1000" width="400" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="oRrT0nGr3u4EqihQhA1T-196" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="960" width="660" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
