@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T10:01:26.785Z" agent="5.0 (Windows)" etag="IE48-at4KQTn96gWRWu1" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T10:08:09.270Z" agent="5.0 (Windows)" etag="GHwGREK4LGLGzez1Qche" version="14.2.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1695" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-85" value="Buyer UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="715" width="160" height="86" as="geometry" />
+          <mxGeometry x="-360" y="840" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-86" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-85">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-93" value="Restaurant Owner UI&#xa;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="808.5" width="160" height="86" as="geometry" />
+          <mxGeometry x="-430" y="1010" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-94" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-93">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -293,7 +293,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-117" value="Login UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="550" width="160" height="86" as="geometry" />
+          <mxGeometry x="-380" y="715" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-118" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-117">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -353,7 +353,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-137" value="Delete Restaurant UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="240" width="160" height="86" as="geometry" />
+          <mxGeometry x="-550" y="808.5" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-138" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-137">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -365,7 +365,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-141" value="Restaurant Register UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="460" width="160" height="86" as="geometry" />
+          <mxGeometry x="-720" y="808.5" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-142" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-141">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -449,7 +449,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-169" value="Log Out UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="490" width="160" height="86" as="geometry" />
+          <mxGeometry x="-550" y="715" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-170" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-169">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
