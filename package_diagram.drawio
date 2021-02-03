@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T12:03:50.336Z" agent="5.0 (Windows)" etag="baJi42WJxD5iumNbs30z" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T12:24:20.217Z" agent="5.0 (Windows)" etag="T8BG3YKAAvKCyVsPG9UA" version="14.2.9" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="2675" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-89" value="Restaurant UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1530" width="160" height="86" as="geometry" />
+          <mxGeometry x="460" y="1240" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-90" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-89">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -257,7 +257,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-93" value="Restaurant Owner UI&#xa;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1550" width="160" height="86" as="geometry" />
+          <mxGeometry x="-70" y="1410" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-94" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-93">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -305,7 +305,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-121" value="Restaurant Owner Sign Up UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1540" width="180" height="86" as="geometry" />
+          <mxGeometry x="-80" y="1510" width="180" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-122" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-121">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -425,7 +425,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-173" value="Restaurants Management UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="1530" width="180" height="86" as="geometry" />
+          <mxGeometry x="320" y="1530" width="180" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-174" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-173">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -437,7 +437,7 @@
           <mxGeometry y="60" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-177" value="Food Menu UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1360" width="160" height="86" as="geometry" />
+          <mxGeometry x="640" y="1240" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-178" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-177">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -449,7 +449,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-149" value="Sales Management UI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1360" width="180" height="86" as="geometry" />
+          <mxGeometry x="820" y="1240" width="180" height="86" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-150" value=" " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oRrT0nGr3u4EqihQhA1T-149">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -515,10 +515,10 @@
           <mxGeometry x="60" y="960" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-199" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=194;tabHeight=22;tabPosition=left;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1320" width="600" height="150" as="geometry" />
+          <mxGeometry x="430" y="1200" width="600" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oRrT0nGr3u4EqihQhA1T-200" value="Food Management UI Package" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontFamily=Verdana" vertex="1" parent="1">
-          <mxGeometry x="200" y="1320" width="130" height="20" as="geometry" />
+          <mxGeometry x="430" y="1200" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
