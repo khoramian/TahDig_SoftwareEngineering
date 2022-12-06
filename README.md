@@ -1,2 +1,2 @@
 # TahDig_SoftwareEngineering
-This is our team Project for Software Engineering Course.
+This is our team project for Software Engineering course.
